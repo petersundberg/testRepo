@@ -1,0 +1,36 @@
+
+button {color:black;
+ background-color:yellow}
+
+/* p {color:white; background-color:grey}*/
+
+ #div1{
+   background-color: blue;
+ }
+
+ #div2{
+  background-color: pink;
+}
+
+.myClass>p{
+  background-color: green;
+}
+
+/*allt margin 0, padding 0*/
+*{
+  margin: 0px; padding: 0px;
+}
+
+.inlineStyle li{
+  display: inline;
+}
+
+.sectionSize{
+width:9em;
+height:7em;
+background-color:green;
+}
+
+#my-para{
+  color: red;
+}
